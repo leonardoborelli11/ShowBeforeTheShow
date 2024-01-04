@@ -1,0 +1,131 @@
+body{
+    scroll-behavior: smooth;
+    font-family: 'Oswald', sans-serif;
+    padding: 0% !important;
+}
+
+.attivo{
+    text-decoration: underline;
+}
+
+header.nfl{
+    background: url(../immages/nflreal.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.titolonfl{
+    color: red;
+    height: 80vh;
+    text-align: center;
+    padding: 5% 5% 0% 5%;
+}
+
+
+header.home{
+    background: url(../immages/homevera.jpg) no-repeat center center fixed;
+    background-size: cover ;
+}
+
+header.champions {
+    background: url(../immages/champions.jpg) no-repeat center center fixed;
+    background-size: cover;
+    
+}
+
+.titolo {
+    height: 80vh;
+    color: black;
+    text-align: center;
+    padding: 5% 5% 0% 5%;
+}
+
+h1 {
+    letter-spacing: 1em;
+    text-transform: uppercase;
+
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left: 0% !important;
+   
+}
+
+h2{
+    text-align: center;
+    padding-top: 5%;
+    font-size: 3em;
+}
+
+.introduzione{
+    text-align: center;
+    padding: 2em 15%;
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
+
+h3{
+    list-style-type: armenian;
+    font-size: 1.5em;
+}
+
+body {
+    margin: 0%;
+}
+
+.col-md-7{
+    text-align: center;
+}
+
+.col-md-5{
+    text-align: left;
+}
+
+.video{
+    height: 300px;
+    width: 600px;
+}
+
+.riga{
+    padding: 3em 5%;
+}
+
+.champ{
+    background-color: blueviolet;
+}
+
+.bowl{
+    background-color: red;
+}
+
+.around{
+    background-color: rgb(21, 21, 133);
+}
+
+.piedipagina{
+    color: white;
+    height: 20vh;
+    padding-top: 5%;
+    padding-bottom: 15%;
+}
+
+.principale{
+    background-color: rgb(21, 21, 133);
+}
+
+.champions{
+    background-color: blueviolet;
+}
+
+.NFLP{
+    background-color: black;
+}
+
+.share{
+    text-align: right;
+}
+
+
+
+
+
