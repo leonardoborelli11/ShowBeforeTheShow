@@ -24,6 +24,8 @@ header.nfl{
 header.home{
     background: url(../immages/homevera.jpg) no-repeat center center fixed;
     background-size: cover ;
+    padding-right: 0%;
+    margin-right: 0%;
 }
 
 header.champions {
@@ -37,6 +39,7 @@ header.champions {
     color: black;
     text-align: center;
     padding: 5% 5% 0% 5%;
+    
 }
 
 h1 {
@@ -125,7 +128,35 @@ body {
     text-align: right;
 }
 
+.documentazione{
+    letter-spacing: normal !important;
+    text-align: center;
+    padding-top: 5%;
+    font-size: 3.5em;
+}
 
+.testodocumentazione{
+    padding-top: 2%;
+    padding-left: 8%;
+    padding-right: 8%;
+    font-size: 1.2em;
+}
 
+.elencopuntato{
+    padding-top: 0% !important;
+}
+
+#strutturasito{
+    height: 370px;
+    width: auto;
+}
+
+.immaginidocumentazione{
+    text-align: center;
+}
+
+#Wireframe{
+    padding-top: 1%;
+}
 
 
